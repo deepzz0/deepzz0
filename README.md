@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=deepzz0&show_icons=true&icon_color=0366d6&text_color=2ea44f&bg_color=ffffff&hide_title=true"  alt=""/>
+
+I’m currently learning how to be an indie hacker.
+
+- 📫 Contact me: deepzz.qi[#]gmail.com
+- 📝 Blog: [https://deepzz.com](https://deepzz.com)
+
+### Products
+
+- [Eiblog](https://github.com/eiblog/eiblog): A fast blog system in golang.
+- [AuthONE Authenticator](https://apps.apple.com/us/app/authone-authenticator/id6467347432): 2FA Authentication & MFA.
+- [Crypto Box](https://box.deepzz.com/): A tool site about crypto.
