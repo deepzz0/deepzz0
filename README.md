@@ -27,5 +27,5 @@ I’m currently learning how to be an indie hacker.
 - [Eiblog](https://github.com/eiblog/eiblog): A fast blog system in golang.
 - [AuthONE Authenticator](https://apps.apple.com/us/app/authone-authenticator/id6467347432): 2FA Authentication & MFA.
 - [TempMail 100](https://apps.apple.com/app/id6593689186), [Website](https://tempmail100.com): Temp Mail & Privacy Mail.
-- [LinguaX](https://linguax.app): macOS 应用，让输入法跟随应用切换.
+- [LinguaX](https://linguax.app): 让输入法跟随应用切换, macOS 输入法切换神器.
 - [Crypto Box](https://box.deepzz.com/): A tool site about crypto.
