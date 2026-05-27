@@ -28,4 +28,4 @@ I’m currently learning how to be an indie hacker.
 - [AuthONE Authenticator](https://apps.apple.com/us/app/authone-authenticator/id6467347432): 2FA Authentication & MFA.
 - [iOS](https://apps.apple.com/app/id6593689186), [Android](https://play.google.com/store/apps/details?id=com.deepzz.tempmail), [Website](https://tempmail100.com): Temp Mail & Privacy Mail.
 - [LinguaX](https://linguax.app): Mac mouse enhancement app with optional smart input switching.
-- [Crypto Box](https://box.deepzz.com/): A tool site about crypto.
+- [味来厨房](https://wecook.life): 一个教你如何烹饪的网站Beta.
